@@ -1,0 +1,213 @@
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.0831574829964414}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.2299038745215525}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 2.5781989289639933}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.5980795931738925}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.7806103361252298}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 1.322129754165768}
+  {'action': {'type': 'item', 'name': 'yoghurt'}, 'time': 1.9590816489335532}
+  {'action': {'type': 'item', 'name': 'apples'}, 'time': 1.4521031483255933}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.7238898886634164}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.2339125724399667}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.5895346182273792}
+  {'action': {'type': 'item', 'name': 'tinned jackfruit'}, 'time': 1.7480886374055153}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.9197917988203737}
+  {'action': {'type': 'item', 'name': 'noodles'}, 'time': 0.7842493286541241}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.634526689973867}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.157582278457289}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 0.2590169922235003}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.3187697227574815}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.389993476262295}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.9234646964083895}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.518653283016966}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, bread, yoghurt, apples, tinned jackfruit, noodles, jasmine rice', 'num_items': 8, 'time': 26.204738750516587}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.3108943266096709}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 1.488776019677122}
+  {'action': {'type': 'item', 'name': 'butter'}, 'time': 1.9612360450116257}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 1.8666991024950832}
+  {'action': {'type': 'item', 'name': 'yoghurt'}, 'time': 0.6103437057793806}
+  {'action': {'type': 'item', 'name': 'apples'}, 'time': 1.5316891218318793}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.6438560455767901}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.1394935921877751}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.8806131048450762}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.35587871451375663}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 1.3362805655685677}
+  {'action': {'type': 'item', 'name': 'black rice'}, 'time': 2.2322907730214006}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.3147162473877847}
+  {'action': {'type': 'item', 'name': 'chicken'}, 'time': 1.579835335714407}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.5750455833533743}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.6104046909535032}
+  {'action': {'type': 'item', 'name': 'prawns'}, 'time': 1.0783194865754322}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, butter, bread, yoghurt, apples, jasmine rice, black rice, chicken, prawns', 'num_items': 10, 'time': 22.516372461102634}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.7540498534719082}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 0.4697043614324494}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.2204336680615055}
+  {'action': {'type': 'item', 'name': 'butter'}, 'time': 0.3569859998654822}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.7617821182207343}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.102313972754168}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.10571610058161}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.187728171077877}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': array([0.10495204])}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.2544961571717268}
+  {'action': {'type': 'item', 'name': 'mirin'}, 'time': 0.6568638774539395}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': array([0.10495204])}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.5928480828686626}
+  {'action': {'type': 'item', 'name': 'chicken'}, 'time': 2.12566873855092}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.1156280840413395}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.6234240497982411}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.608874784642158}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, butter, mirin, jasmine rice, chicken', 'num_items': 6, 'time': array([16.1464221])}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.6959184650704262}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': array([0.10495204])}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.8485789994742912}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 0.9586377902836544}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.1489705994642612}
+  {'action': {'type': 'item', 'name': 'yoghurt'}, 'time': 1.4837548346947296}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.7103810335055875}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': array([0.10495204])}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.1083206755318473}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.2579267378040135}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.6869314071090238}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.046139559726523}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 0.7920586667023495}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.47171620504899714}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.0499144966163434}
+  {'action': {'type': 'item', 'name': 'chicken'}, 'time': 0.3613985170834809}
+  {'action': {'type': 'item', 'name': 'cola'}, 'time': 0.794880577783291}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.010905815543893}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, bread, yoghurt, jasmine rice, chicken, cola', 'num_items': 7, 'time': array([18.63633846])}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 0.29701660193779555}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 0.8997220406167583}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.3415139842523962}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.1269584253244866}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.375309065690141}
+  {'action': {'type': 'item', 'name': 'yoghurt'}, 'time': 1.0795815864463134}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.2749103973231668}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.9580569850484376}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.8064628131218824}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.9863062863930149}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.0898918570482288}
+  {'action': {'type': 'item', 'name': 'noodles'}, 'time': 0.7463077151601023}
+  {'action': {'type': 'item', 'name': 'mirin'}, 'time': 1.6482866005759003}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 0.5881612844847888}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.7885943381375955}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.3819688499726093}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.2570545621399107}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.5843172874494174}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, yoghurt, noodles, mirin, jasmine rice', 'num_items': 6, 'time': 18.230420681122947}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.4532722965315226}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.1973928786137327}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 0.41287565639044665}
+  {'action': {'type': 'item', 'name': 'butter'}, 'time': 0.7394676464496983}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 0.42789100581289063}
+  {'action': {'type': 'item', 'name': 'yoghurt'}, 'time': array([0.10495204])}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.5602128765486933}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.445889798716914}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.8281244271425195}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.3916615817299668}
+  {'action': {'type': 'item', 'name': 'noodles'}, 'time': 0.8099360377056374}
+  {'action': {'type': 'item', 'name': 'mirin'}, 'time': 0.45524911895882414}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.8625462407510405}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 1.4000672118796973}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.0200089674382795}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.3266891150961624}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.7358617658633726}
+  {'action': {'type': 'item', 'name': 'prawns'}, 'time': 0.25528460296297895}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, butter, bread, yoghurt, noodles, mirin, jasmine rice, prawns', 'num_items': 9, 'time': array([17.42738327])}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 0.9270178696236443}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.17559689787827215}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.316288577293468}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.6806339501337932}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 0.9707538409172713}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.5091617328909825}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.4953772441093256}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.7727571614678148}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.001913390131585}
+  {'action': {'type': 'item', 'name': 'noodles'}, 'time': 1.3422979164707556}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.5451916490867018}
+  {'action': {'type': 'item', 'name': 'mirin'}, 'time': 0.46685758171306735}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 1.05248734621795}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.0237074099338024}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.057605914881382}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.4038410451386332}
+  {'action': {'type': 'item', 'name': 'chicken'}, 'time': 0.6311207321345654}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.24162734862676338}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.4360924206342272}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, bread, noodles, mirin, jasmine rice, chicken', 'num_items': 6, 'time': 18.050330029284005}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.766860019207106}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 0.7691071237561145}
+  {'action': {'type': 'item', 'name': 'butter'}, 'time': 1.0077438497517948}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 0.73552954613071}
+  {'action': {'type': 'item', 'name': 'yoghurt'}, 'time': 0.7400807821119203}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.4723569151483527}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.981947743945373}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.867283889410753}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.099052036424713}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.904801151588631}
+  {'action': {'type': 'item', 'name': 'noodles'}, 'time': 0.9347981752531068}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.0177476241048757}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 1.1160290249421754}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.6423003750915802}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.7659224751524605}
+  {'action': {'type': 'item', 'name': 'cola'}, 'time': 1.531192506572251}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.8098678379245178}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, butter, bread, yoghurt, noodles, jasmine rice, cola', 'num_items': 8, 'time': 19.162621076516434}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.0114076265778869}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 0.5119582198383775}
+  {'action': {'type': 'item', 'name': 'butter'}, 'time': 0.6637809528367167}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 1.1145690860131143}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.8897938953148236}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.262397420881526}
+  {'action': {'type': 'item', 'name': 'apples'}, 'time': 0.18611424002655086}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.8832068947983662}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': array([0.10495204])}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 1.2475839015944548}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.4342176230774162}
+  {'action': {'type': 'item', 'name': 'noodles'}, 'time': 1.6174433079969073}
+  {'action': {'type': 'item', 'name': 'mirin'}, 'time': 1.639618689047967}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.24085553690973127}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 1.396448680106228}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.5988642952382726}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.6207929960695134}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': array([0.10495204])}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.201216085942932}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, butter, bread, apples, noodles, mirin, jasmine rice', 'num_items': 8, 'time': array([18.73017353])}
+]
+[
+{'action': {'type': 'item', 'name': 'milk'}, 'time': 1.5533338743276226}
+  {'action': {'type': 'item', 'name': 'eggs'}, 'time': 0.9852215706475199}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.9603560839328757}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.4238359433868909}
+  {'action': {'type': 'item', 'name': 'bread'}, 'time': 0.5270139474861512}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.90592168010935}
+  {'action': {'type': 'item', 'name': 'yoghurt'}, 'time': 1.9809773219798577}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.6016498895923812}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.22667686369186735}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.1889158420929302}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.6341637264730933}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.6193989939407508}
+  {'action': {'type': 'item', 'name': 'jasmine rice'}, 'time': 1.1968934665417483}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.41654385683562334}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 1.142201352137653}
+  {'action': {'type': 'item', 'name': 'chicken'}, 'time': 1.6644312829668948}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 2.0088437763525184}
+  {'action': {'type': 'granny', 'name': 'granny'}, 'time': 0.9275723822266589}
+  {'action': {'type': 'miss', 'name': 'miss'}, 'time': 0.947023850485395}
+  {'action': {'type:': 'receipt', 'name': 'receipt'}, 'items': 'milk, eggs, bread, yoghurt, jasmine rice, chicken', 'num_items': 6, 'time': 19.910975705207782}
+]
